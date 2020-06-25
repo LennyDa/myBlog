@@ -7,9 +7,14 @@ publishDir = "../dist"
 
 
 [params]
-  twitter = "your-twitter-handle"
-  github = "your-github-handle"
-  iconTitles = ["Twitter", "GitHub"]
+  github = "https://github.com/<your handle>"
+  # email = "mailto:<your email>"
+  facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  instagram = "https://instagram.com/<your handle>"
+  # linkedin = "<link to your profile>"
+  youtube = "https://www.youtube.com/channel/<your channel>"
+  iconTitles = ["GitHub", "Facebook", "Instagram", "Youtube"]
 
 [[menu.main]]
       identifier = "about"
