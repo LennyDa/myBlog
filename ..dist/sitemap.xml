@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/</loc>
+    <lastmod>2020-06-12T11:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/blog/</loc>
+    <lastmod>2020-06-12T11:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/blog/my-first-post/</loc>
+    <lastmod>2020-06-12T11:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/photography/my-first-photo/</loc>
+    <lastmod>2020-06-12T11:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/photography/</loc>
+    <lastmod>2020-06-12T11:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lennyda.github.io/myBlog/tags/</loc>
+  </url>
+  
+</urlset>
