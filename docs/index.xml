@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>My First Blog Post</title>
+      <link>http://example.org/blog/my-first-post/</link>
       <pubDate>Fri, 12 Jun 2020 11:40:38 +0300</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://example.org/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Photo Post</title>
+      <link>http://example.org/photography/my-first-photo/</link>
+      <pubDate>Fri, 12 Jun 2020 11:40:38 +0300</pubDate>
+      
+      <guid>http://example.org/photography/my-first-photo/</guid>
       <description></description>
     </item>
     
