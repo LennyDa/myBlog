@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="962a633b-7029-4ab5-93ad-e41c9adf2d73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/themes/codex" value="26a85582a56e21bccb92d7621b5ff75fa60817ab" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1dDVZ0ycNT0VCrlMmHmmys3ovE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/photography" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/photography" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="962a633b-7029-4ab5-93ad-e41c9adf2d73" name="Default Changelist" comment="" />
+      <created>1591959702962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591959702962</updated>
+      <workItem from="1591959704121" duration="2340000" />
+      <workItem from="1591965475814" duration="684000" />
+      <workItem from="1591966614495" duration="46000" />
+      <workItem from="1591966663314" duration="10000" />
+      <workItem from="1593034812633" duration="3166000" />
+      <workItem from="1593078558367" duration="53000" />
+      <workItem from="1593078633657" duration="68000" />
+      <workItem from="1593078727361" duration="1206000" />
+      <workItem from="1593080592173" duration="20000" />
+      <workItem from="1593080613680" duration="20000" />
+      <workItem from="1593080753400" duration="321000" />
+      <workItem from="1593082401256" duration="8000" />
+      <workItem from="1593082610441" duration="432000" />
+      <workItem from="1593083126783" duration="6358000" />
+      <workItem from="1593099814732" duration="423000" />
+      <workItem from="1593100314681" duration="488000" />
+      <workItem from="1593100805507" duration="179000" />
+      <workItem from="1593100987617" duration="585000" />
+      <workItem from="1593101736594" duration="168000" />
+      <workItem from="1593101907568" duration="773000" />
+      <workItem from="1593102877747" duration="2352000" />
+      <workItem from="1593105333623" duration="3272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="75" key="DiffContextDialog" timestamp="1593100577233">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="147" y="75" key="DiffContextDialog/0.23.1680.958@0.23.1680.958" timestamp="1593100577233" />
+    <state x="166" y="93" key="MergeDialog" timestamp="1593104544062">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="166" y="93" key="MergeDialog/0.23.1680.958@0.23.1680.958" timestamp="1593104544062" />
+    <state x="476" y="255" key="MultipleFileMergeDialog" timestamp="1593104546187">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="476" y="255" key="MultipleFileMergeDialog/0.23.1680.958@0.23.1680.958" timestamp="1593104546187" />
+    <state x="586" y="196" key="RollbackChangesDialog" timestamp="1593103135824">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="586" y="196" key="RollbackChangesDialog/0.23.1680.956@0.23.1680.956" timestamp="1593088346603" />
+    <state x="586" y="196" key="RollbackChangesDialog/0.23.1680.958@0.23.1680.958" timestamp="1593103135824" />
+    <state x="608" y="125" key="SettingsEditor" timestamp="1591966655941">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="608" y="125" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591966655941" />
+    <state x="438" y="226" key="Vcs.Push.Dialog.v2" timestamp="1593102933793">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="438" y="226" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1593085471782" />
+    <state x="438" y="226" key="Vcs.Push.Dialog.v2/0.23.1680.958@0.23.1680.958" timestamp="1593102933793" />
+    <state x="221" y="131" width="1235" height="713" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593101660174">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="221" y="131" width="1235" height="711" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.956@0.23.1680.956" timestamp="1593084124226" />
+    <state x="221" y="131" width="1235" height="713" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.958@0.23.1680.958" timestamp="1593101660174" />
+    <state x="626" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593104518835">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="626" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.956@0.23.1680.956" timestamp="1593085337050" />
+    <state x="626" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.958@0.23.1680.958" timestamp="1593104518835" />
+    <state x="221" y="131" width="1235" height="711" key="dock-window-1" timestamp="1593104255452">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="221" y="131" width="1235" height="711" key="dock-window-1/0.23.1680.958@0.23.1680.958" timestamp="1593104255452" />
+    <state x="573" y="247" width="665" height="492" key="find.popup" timestamp="1593100013738">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="573" y="247" width="598" height="490" key="find.popup/0.23.1680.956@0.23.1680.956" timestamp="1593089754722" />
+    <state x="573" y="247" width="665" height="492" key="find.popup/0.23.1680.958@0.23.1680.958" timestamp="1593100013738" />
+    <state x="655" y="211" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1593107404987">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="655" y="211" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.23.1680.958@0.23.1680.958" timestamp="1593107404987" />
+    <state x="586" y="206" key="git4idea.branch.GitSmartOperationDialog" timestamp="1593100104747">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="586" y="206" key="git4idea.branch.GitSmartOperationDialog/0.23.1680.958@0.23.1680.958" timestamp="1593100104747" />
+    <state x="557" y="388" key="git4idea.ui.GitResetDialog" timestamp="1593104751675">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="557" y="388" key="git4idea.ui.GitResetDialog/0.23.1680.958@0.23.1680.958" timestamp="1593104751675" />
+    <state x="503" y="229" width="670" height="678" key="search.everywhere.popup" timestamp="1593104387277">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="503" y="229" width="670" height="676" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1593085393017" />
+    <state x="503" y="229" width="670" height="678" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1593104387277" />
+  </component>
+</project>

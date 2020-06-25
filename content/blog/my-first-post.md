@@ -1,6 +1,0 @@
----
-title: "My First Blog Post"
-date: 2020-06-12T11:40:38+03:00
-draft: false
----
-
