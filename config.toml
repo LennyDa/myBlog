@@ -1,7 +1,6 @@
 baseURL = "https://lennyda.github.io/myBlog/"
 languageCode = "en-us"
 title = "Livnat's New Site"
-theme = "codex"
 
 [params]
   github = "https://github.com/<your handle>"
