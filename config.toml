@@ -1,9 +1,7 @@
-baseURL = "https://lennyda.github.io/myBlog/"
+baseURL = "https://lennyda.github.io/myBlog"
 languageCode = "en-us"
 title = "Livnat's New Site"
 theme = "codex"
-
-
 
 [params]
   github = "https://github.com/<your handle>"
@@ -16,10 +14,16 @@ theme = "codex"
   iconTitles = ["GitHub", "Facebook", "Instagram", "Youtube"]
 
 [[menu.main]]
+      identifier = "hompage"
+      name = "hompage"
+      title = "Hompage"
+      url = "/"
+
+[[menu.main]]
       identifier = "about"
       name = "about"
       title = "About"
-      url = "/"
+      url = "/about-page"
 
 [[menu.main]]
       identifier = "blog"
