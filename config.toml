@@ -1,7 +1,9 @@
 baseURL = "https://lennyda.github.io/myBlog/"
+canonifyURLs = "true"
 languageCode = "en-us"
 title = "Livnat's New Site"
 theme = "codex"
+copyright = "© {year} LennyDa (Livnat David)"
 
 [params]
   github = "https://github.com/<your handle>"
@@ -15,24 +17,19 @@ theme = "codex"
 
 [[menu.main]]
       identifier = "hompage"
-      name = "hompage"
+      name = "Hompage"
       title = "Hompage"
       url = "/"
+      Weight = -100
 
 [[menu.main]]
       identifier = "about"
-      name = "about"
+      name = "About"
       title = "About"
       url = "/about-page"
 
 [[menu.main]]
       identifier = "blog"
-      name = "blog"
+      name = "Blog"
       title = "Blog"
       url = "/blog"
-
-[[menu.main]]
-      identifier = "photography"
-      name = "photography"
-      title = "Photography"
-      url = "/photography"
