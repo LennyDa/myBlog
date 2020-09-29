@@ -2,18 +2,19 @@ baseURL = "https://lennyda.github.io/myBlog/"
 canonifyURLs = "true"
 languageCode = "en-us"
 title = "Livnat's New Site"
-theme = "codex"
+theme = "hugo-theme-codex"
 copyright = "© {year} LennyDa (Livnat David)"
 
 [params]
-  github = "https://github.com/<your handle>"
+  github = "https://github.com/LennyDa"
   # email = "mailto:<your email>"
   facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   instagram = "https://instagram.com/<your handle>"
   # linkedin = "<link to your profile>"
   youtube = "https://www.youtube.com/channel/<your channel>"
-  iconTitles = ["GitHub", "Facebook", "Instagram", "Youtube"]
+#  iconTitles = ["GitHub", "Facebook", "Instagram", "Youtube"]
+  iconOrder = ["GitHub", "Facebook", "Instagram", "Youtube"]
 
 [[menu.main]]
       identifier = "hompage"
