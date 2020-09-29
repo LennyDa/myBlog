@@ -13,4 +13,7 @@ My blog is small static website built with Hugo Templates.
 
 My blog is using Codex template provided by Hugo.
 
+### Local env 
+hugo server 
+
 
