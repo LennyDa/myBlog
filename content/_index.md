@@ -1,5 +1,4 @@
 ---
-heading: "Hi There, Welcome to my Blog:)"
-subheading: "Livnat is coding here - join the fun!"
+heading: "Hi There, My name is Livant and I'm a Developer:)"
 handle: "Livnat David"
 ---

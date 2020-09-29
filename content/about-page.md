@@ -4,11 +4,17 @@ date: 2020-06-12T11:40:38+03:00
 draft: false
 ---
 
-So... I decided to open a Blog! 
+Hi there, let me tell you a little bit about myself:)
 
-Why? I need a place where I can throw all of my ideas and have fun trying different things in this magical world of us, developers.
+I like to travel, take pictures, read books, play music and code!
 
-I'm also going to use some other skills and hobbies I have in order to make this place shine (bright like a diamond;)
+I like to learn new things and try new technologies. 
 
-Anyway.. the main reason I opened it is for coding and fun. So.. enjoy!
+When I create something new, I like to make sure it's not just working well but also looks good!
+Personally, I like clean and minimal design (I think you can see it here:), that's focused on the story. 
+
+One thing I've learned on my trips: it's amazing if you made it to the top of the mountain, but the way up is also meaningful - you always learn something about yourself and about the world around you.
+
+Enjoy the way, enjoy life:)
+
 

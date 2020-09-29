@@ -27,9 +27,3 @@ copyright = "© {year} LennyDa (Livnat David)"
       name = "About"
       title = "About"
       url = "/about-page"
-
-[[menu.main]]
-      identifier = "blog"
-      name = "Blog"
-      title = "Blog"
-      url = "/blog"
