@@ -1,4 +1,4 @@
 ---
-heading: "Hi There, My name is Livant and I'm a Developer:)"
+heading: "Hi There, My name is Livnat and I'm a Developer:)"
 handle: "Livnat David"
 ---
